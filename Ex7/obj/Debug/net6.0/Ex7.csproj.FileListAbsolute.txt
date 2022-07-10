@@ -1,0 +1,15 @@
+G:\Documents\Projects\Repo\Examples\Ex7\bin\Debug\net6.0\Ex7.exe
+G:\Documents\Projects\Repo\Examples\Ex7\bin\Debug\net6.0\Ex7.deps.json
+G:\Documents\Projects\Repo\Examples\Ex7\bin\Debug\net6.0\Ex7.runtimeconfig.json
+G:\Documents\Projects\Repo\Examples\Ex7\bin\Debug\net6.0\Ex7.dll
+G:\Documents\Projects\Repo\Examples\Ex7\bin\Debug\net6.0\Ex7.pdb
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.csproj.AssemblyReference.cache
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.AssemblyInfoInputs.cache
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.AssemblyInfo.cs
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.csproj.CoreCompileInputs.cache
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.dll
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\refint\Ex7.dll
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.pdb
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\Ex7.genruntimeconfig.cache
+G:\Documents\Projects\Repo\Examples\Ex7\obj\Debug\net6.0\ref\Ex7.dll
