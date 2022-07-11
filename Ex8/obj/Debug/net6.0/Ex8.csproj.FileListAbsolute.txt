@@ -1,0 +1,15 @@
+G:\Documents\Projects\Repo\Examples\Ex8\bin\Debug\net6.0\Ex8.exe
+G:\Documents\Projects\Repo\Examples\Ex8\bin\Debug\net6.0\Ex8.deps.json
+G:\Documents\Projects\Repo\Examples\Ex8\bin\Debug\net6.0\Ex8.runtimeconfig.json
+G:\Documents\Projects\Repo\Examples\Ex8\bin\Debug\net6.0\Ex8.dll
+G:\Documents\Projects\Repo\Examples\Ex8\bin\Debug\net6.0\Ex8.pdb
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.csproj.AssemblyReference.cache
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfoInputs.cache
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfo.cs
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.csproj.CoreCompileInputs.cache
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.dll
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\refint\Ex8.dll
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.pdb
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\Ex8.genruntimeconfig.cache
+G:\Documents\Projects\Repo\Examples\Ex8\obj\Debug\net6.0\ref\Ex8.dll
